@@ -1,0 +1,14 @@
+# Compiled releases
+build
+
+# OSX files
+.DS_Store
+
+# Documentation on f411
+docs
+
+# Clion
+.idea
+
+# VSCode files
+.vscode
